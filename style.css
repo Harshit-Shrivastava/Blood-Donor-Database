@@ -1,0 +1,164 @@
+body{
+	background:url('images/topgrad.png') repeat-x;
+	background-color:#525252;
+	heigth:1200px;
+}
+
+p.ex
+{
+	background-color:#D7D7D7;
+	font-family:"Trebuchet MS", Helvetica, sans-serif;
+	max-width:896px;
+	heigth:850px;
+	height:auto;
+	height:850px;
+	overflow:hidden;
+	padding-top:130px;
+	padding-bottom:50px;
+	padding-left:100px;
+	padding-right:100px;
+	position:relative;
+	top:150px;
+	left:118px;
+	z-index:-1;
+	color:#525252;
+}
+
+
+
+#heading
+{
+	min-width:400px;
+	text-align:center;
+	color:#D13E19;
+	font-family:"Trebuchet MS", Helvetica, sans-serif;
+	position:absolute;
+	top:270px;
+	left:478px;
+	z-index:1;
+	font-size:25px;
+}
+
+#foot
+{
+	position:relative;
+	background:white;
+	min-height:100px;
+	height:auto;
+	height:65px;
+	bottom:-34px;
+	width:1096px;
+	left:118px;
+	background:url('images/grad.png') repeat-x;
+	font-family:"Trebuchet MS", Helvetica, sans-serif;
+	color:#404040;
+	z-index:1;
+}
+	
+#name
+{
+	color:#BEBEBE;
+	position:absolute;
+	z-index:1;
+	top:60px;
+	left:550px;
+	font-family:"Trebuchet MS", Helvetica, sans-serif;
+	font-size:40px;
+	font-weight:bold;
+}
+
+#img_name
+{
+	position:absolute;
+	top:0px;
+	left:360px;
+	z-index:1;
+}
+
+#gtag
+{
+	position:absolute;
+	top:110px;
+	left:125px;
+}
+
+
+
+#menu a
+{
+	font-family:"Trebuchet MS", Helvetica, sans-serif;
+	padding:8px;
+	padding-left:45px;
+	padding-right:36px;
+	display:block;
+	background:url('images/menu.png');
+	min-width:97px;
+	position:relative;
+	top:150px;
+	color:white;
+	left:-178px;
+}
+
+#menu a:link
+{
+	text-decoration:none;
+}
+
+#menu a:hover
+{
+	background:url('images/menuhover.png');
+	text-decoration:none;
+}
+
+#menu li
+{
+	display:inline;
+	float:right;
+	width:90px;
+	margin:0px;
+	padding-left:34px;
+	padding-right:29px;
+}
+
+#log
+{
+	position:absolute;
+	top:350px;
+	left:300px;
+
+}
+#loginbox
+{
+	float:left;
+	color:#525252;
+	font-family:"Trebuchet MS", Helvetica, sans-serif;
+	font-family:"Trebuchet MS", Helvetica, sans-serif;
+	width:400px;
+	max-height:90px;
+	margin:50px;
+	z-index:1;
+}
+
+#login 
+{
+	position:absolute;
+	left:500px;
+	top:300px;
+	color:#525252;
+	font-family:"Trebuchet MS", Helvetica, sans-serif;
+	font-family:"Trebuchet MS", Helvetica, sans-serif;
+	width:500px;
+	max-height:90px;
+	margin:50px;
+	z-index:0;
+
+}
+
+p.off
+{
+	clear:both;
+}
+
+#bottom
+{
+}
