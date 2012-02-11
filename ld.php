@@ -1,7 +1,7 @@
 <?php
-$dbusername="root";
+$dbusername="";
 $dbpasswd="";
-$dbhost="localhost";
-$dbname="ieee";
+$dbhost="";
+$dbname="";
 
 ?>
